@@ -1,0 +1,3 @@
+streamlit
+pymatgen
+py3Dmol
